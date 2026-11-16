@@ -1,0 +1,61 @@
+@font-face {
+	font-family: "EB Garamond";
+	font-style: italic;
+	font-weight: normal;
+	src: url("../font/EBGaramond-Italic-VariableFont_wght.ttf");
+}
+@font-face {
+	font-family: "EB Garamond";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/EBGaramond-VariableFont_wght.ttf");
+}
+@font-face {
+	font-family: "EB Garamond";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/EBGaramond-VariableFont_wght.ttf");
+}
+@font-face {
+	font-family: "Times New Roman";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/TimesNewRoman.ttf");
+}
+.PoemT3 {
+font-family:"EB Garamond", sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:2.833333em;
+hyphens:none;
+}
+
+.PoemAuth3 {
+font-family:"EB Garamond", sans-serif;
+font-weight:normal;
+font-style:italic;
+font-size:1.666667em;
+text-decoration-color:#FC241C;
+hyphens:none;
+margin-top:0;
+}
+
+.PoemBody3 {
+font-family:"EB Garamond", sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.666667em;
+hyphens:none;
+line-height:2em;
+margin-top:1em;
+}
+
+.PoemCopyR3 {
+font-family:"Times New Roman", serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+hyphens:none;
+margin-top:2em;
+}
+

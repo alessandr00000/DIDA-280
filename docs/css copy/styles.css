@@ -1,0 +1,73 @@
+@font-face {
+	font-family: Fraunces;
+	font-style: italic;
+	font-weight: 900;
+	src: url("../font/Fraunces-Italic-VariableFont_SOFT,WONK,opsz,wght.ttf");
+}
+@font-face {
+	font-family: Fraunces;
+	font-style: normal;
+	font-weight: 900;
+	src: url("../font/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf");
+}
+@font-face {
+	font-family: Fraunces;
+	font-style: normal;
+	font-weight: 900;
+	src: url("../font/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf");
+}
+@font-face {
+	font-family: "Times New Roman";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/TimesNewRoman.ttf");
+}
+.PoemT2 {
+font-family:Fraunces, sans-serif;
+font-weight:bold;
+font-style:normal;
+font-size:2.666667em;
+hyphens:none;
+}
+
+.PoemAuth2 {
+font-family:Fraunces, sans-serif;
+font-weight:bold;
+font-style:italic;
+font-size:1.333333em;
+hyphens:none;
+}
+
+.PoemBody2 {
+font-family:Fraunces, sans-serif;
+font-weight:bold;
+font-style:normal;
+font-size:1.333333em;
+hyphens:none;
+}
+
+.PoemCopyR2 {
+font-family:"Times New Roman", serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+color:#393939;
+hyphens:none;
+}
+
+.p4 {
+margin-top:1em;
+}
+
+.p1 {
+margin-top:1em;
+}
+
+.p3 {
+margin-top:1em;
+}
+
+.p2 {
+margin-top:2em;
+}
+

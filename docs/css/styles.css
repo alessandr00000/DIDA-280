@@ -15,13 +15,42 @@
 	font-style: normal;
 	font-weight: 600;
 	src: url("../font/LucidaGrande-Bold.ttf");
+	
 }
+@font-face {
+    font-family: "EB Garamound";
+    font-style: italic;
+    font-weight: normal;
+    src: url("../font/EBGaramond-Italic-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../font/TimesNewRoman.ttf");
+}
+
+@font-face {
+    font-family: "Fraunces";
+    font-style: italic;
+    font-weight: 100 900;
+    src: url("../font/Fraunces-Italic-VariableFont_SOFT,WONK,opsz,wght.ttf");
+}
+
+@font-face {
+    font-family: "Fraunces";
+    font-style: normal;
+    font-weight: 100 900;
+    src: url("../font/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf");
+}
+
 .Base {
 font-family:Arial, sans-serif;
 font-weight:normal;
 font-style:normal;
 font-size:1.0em;
 hyphens:none;
+
 }
 
 .Poemtitle {
@@ -71,3 +100,7 @@ font-family:Helvetica, sans-serif;
 font-style:normal;
 }
 
+.lefty {
+	margin: auto;
+	width: 300px;
+}
